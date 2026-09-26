@@ -46,3 +46,21 @@ docker build -t sandhu_anantvir_image
 
 ### Step 5: Run container 
 docker run -d -p 7775:7775 --name sandhu_anantvir_coding_assignment11 sandhu_anantvir_image
+
+### Step 6: GitHub
+I created a new repository in my GitHub name - sandhu_anantvir_coding_assignment11
+1-Initialize local Git repository
+git init
+git add .
+
+2- commit changes
+git commit -m "Complete Assignment 11 Docker setup"
+
+3- Branch
+git branch -M main
+
+4- Link
+git remote add origin [https://github.com/asandhu-33/sandhu_anantvir_coding_assignment11.git](https://github.com/asandhu-33/sandhu_anantvir_coding_assignment11.git)
+
+5- Push code
+git push -u origin main
