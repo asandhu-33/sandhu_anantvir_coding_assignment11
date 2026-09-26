@@ -1,4 +1,4 @@
-# Codin Assignment 11: Docker File 
+# Coding Assignment 11: Docker File 
 ## Name: Anantvir Kaur Sandhu
 ## Student id: 0440568
 ## Course: Business System Build & Testing
